@@ -3,4 +3,6 @@
 
 # As i mentioned in the discription of the eagle files, you should only use the .sch file, the board isn’t finished, it is due to i selected to only route the bottom layer (i dont have any PCBs with two layers), but you can create gerber files and send it for example to JLC PCB, they will do it very precisly (probably).
 
+# The tester_CMOS_hradel.ino file is my original code for the tester. 
+
 # Thank you.
